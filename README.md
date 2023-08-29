@@ -37,7 +37,9 @@ From this point on, any script needs to be run while being located in the `TRExF
 ## How to
 To run the code, after compiling, use the command:
 
+```
 trex-fitter <action(s)> <config file> [<options>]
+```
 
 The configuration file (`<config file>`) is a text file containing all the information on the definition of samples and fit regions, including all the fit and draw options.
 
