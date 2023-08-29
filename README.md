@@ -8,7 +8,7 @@ In our case, we are looking to use TRExFitter in order to:
 
 2- Study the significance of the Light-by-light scattering process
 
-2- Search for Axion-Like-Particules by setting limits to the cross section of their production through the channel (γγ → a → γγ)
+3- Search for Axion-Like-Particules by setting limits to the cross section of their production through the channel (γγ → a → γγ)
 
 ## Compilation
 
