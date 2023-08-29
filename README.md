@@ -299,7 +299,7 @@ Inside this directory, at every step, some outputs are created, following the st
 
 For example one of the many outputs we get after following these steps, is the following plot describing our `NormFactors` block which represents our parameter of interest, the Light-by-light signal strength: 
 
-[LbyLsignalstrength](OutputExample1.png)
+![LbyLsignalstrength](OutputExample1.png)
 
 
 
