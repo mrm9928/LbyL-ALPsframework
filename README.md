@@ -387,7 +387,7 @@ All this is done through a python script `source/LHscan.py`
 
 We end up getting a plot that looks like this:
 
-![LHscan](OutputExample2.pdf)
+![LHscan](OutputExample2.png)
 
 ## **ALPs search and upper limits plots:**
 
@@ -485,7 +485,7 @@ There is a variation of this code that gives us a plot with two logarithmic axis
 
 The plot for the upper limits on the cross section of the ALPs should be similar to this:
 
-![SigmaCLs](OutputExample3.pdf)
+![SigmaCLs](OutputExample3.png)
 
  
 
