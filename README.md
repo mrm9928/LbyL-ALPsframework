@@ -385,6 +385,10 @@ Afterwards, using the TGraph class,  we plot the values for both scan of likelih
 
 All this is done through a python script `source/LHscan.py` 
 
+We end up getting a plot that looks like this:
+
+![LHscan](OutputExample2.pdf)
+
 ## **ALPs search and upper limits plots:**
 
 For this analysis, we have multiple config files, that are used to set limits on the production of ALPs. Each config file matches  sample associated with
@@ -478,6 +482,10 @@ coupling constant for generated ALPs, Λ_gen = 1000 GeV, using the following for
 A similar python `LambdaCLsplot.py` that extract the same values as the previous one and calculate the values for the coupling constant then does the plotting is used.
 
 There is a variation of this code that gives us a plot with two logarithmic axis `source/LambdaCLslogplot.py`.
+
+The plot for the upper limits on the cross section of the ALPs should be similar to this:
+
+![SigmaCLs](OutputExample3.pdf)
 
  
 
